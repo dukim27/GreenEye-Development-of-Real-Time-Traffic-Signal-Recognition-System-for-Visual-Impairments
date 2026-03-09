@@ -162,12 +162,7 @@ This notebook contains the final Colab-based implementation used for the project
 
 If you use this code or reference this project, please cite:
 
-@inproceedings{kim2023greeneye,
-  author    = {Danu Kim},
-  title     = {GreenEye: Development of Real-Time Traffic Signal Recognition System for Visual Impairments},
-  booktitle = {Proceedings of the Korea Software Congress 2023},
-  year      = {2023}
-}
+Kim, D. (2023). *GreenEye: Development of Real-Time Traffic Signal Recognition System for Visual Impairments*. In **2023 Korea Software Cogress (KSC)**.
 
 ## Contact
 
