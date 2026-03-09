@@ -155,8 +155,8 @@ This notebook contains the final Colab-based implementation used for the project
 
 - This repository archives the implementation and materials associated with the GreenEye project.
 - The included sample dataset is for demonstration only and is not sufficient to reproduce the full paper results.
-- Full-dataset access may be available upon reasonable request.
-- Some paths and helper code may be lightly cleaned from the original development version for public release.
+- Full-dataset access may be available upon request.
+- Some paths and helper code were lightly cleaned from the original development version for public release.
 
 ## Citation
 
